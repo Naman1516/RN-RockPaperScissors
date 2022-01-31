@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.naman1516.RPSgame"
     },
     "web": {
       "favicon": "./assets/favicon.png"
